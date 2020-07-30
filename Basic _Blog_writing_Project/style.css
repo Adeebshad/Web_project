@@ -1,0 +1,94 @@
+ /*This is used for change all defult value.*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 18px;
+    font-family: Arial;
+}
+
+
+.pic{
+    height: 150px;
+    width: auto;
+}
+
+ h1, h2 {
+     color: #af8e06;
+ }
+
+h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+
+.main_text{
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+.profile{
+    font-size: 20px;
+}
+
+.container{
+    width: 1140px;
+    margin: 20px auto 0 auto;
+}
+
+.blog-post{
+    /*background-color: #efb0b0;*/
+    width: 75%;
+    float: left;
+    padding-right: 20px;
+    position: relative;
+}
+
+.other-blog{
+    /*background-color: burlywood;*/
+    width: 25%;
+    float: left;
+    padding: 10px;
+}
+
+.author-box{
+    /*background-color: darkgrey;*/
+    padding-top: 20px;
+    border-top: 1px solid #afafaf;
+}
+.profile{
+    text-align: justify;
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.clearfix:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.other{
+    margin-bottom: 20px;
+}
+.author-box img{
+    heigth: 100px;
+    width: 100px;
+    border-radius: 50px;
+    float : left;
+}
+.date{
+    position: absolute;
+    right: 0;
+    top : 10px;
+    padding-right: 20px;
+    font-family: Arial;
+    color: darkolivegreen;
+}
