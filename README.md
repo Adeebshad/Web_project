@@ -9,10 +9,10 @@ It is a game with some rules.
 3. Match will end when score reach to 20.
 4. If anybody dice value become 1. It will make empty the point score and make turn for the other player.
 	Here is some images of this project
-	![alt text](http://photo/to/Capture1.JPG)
+	![alt text](photo/to/Capture1.JPG)
 
 # Basic _Blog_writing_Project
 In this project I am working for making a blog with HTML5 and CSS3. This is a on going project. 
 Hope it will make a better understanding with HTML5 and CSS3. 
 
-![alt text](http://photo/to/blog.JPG)
+![alt text](photo/to/blog.JPG)
