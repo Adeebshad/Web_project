@@ -11,10 +11,10 @@ It is a game with some rules.
 
 Here is some images of this project
 
-![alt text](photo/to/Capture1JPG.jpg)
+![alt text](photo/Capture1JPG.jpg)
 
 # Basic _Blog_writing_Project
 In this project I am working for making a blog with HTML5 and CSS3. This is a on going project. 
 Hope it will make a better understanding with HTML5 and CSS3. 
 
-![alt text](photo/to/blog.jpg)
+![alt text](photo/blog.jpg)
